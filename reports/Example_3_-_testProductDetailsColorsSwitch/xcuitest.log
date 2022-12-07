@@ -1,0 +1,209 @@
+2022-12-05 19:40:47.692	INFO:	2022-12-05 11:40:47.677 MyDemoAppUITests-Runner[467:53590] [injector.dylib] [injector.dylib] Found TestObject.plist with 7 entries.
+
+2022-12-05 19:40:47.692	INFO:	2022-12-05 11:40:47.677 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key networkCaptureEnabled
+2022-12-05 11:40:47.677 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Capturing network logs to network.har.jsonl
+
+2022-12-05 19:40:47.693	INFO:	2022-12-05 11:40:47.680 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-05 19:40:47.693	INFO:	2022-12-05 11:40:47.681 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-05 19:40:47.693	INFO:	2022-12-05 11:40:47.685 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key networkCaptureEnabled
+
+2022-12-05 19:40:47.693	INFO:	2022-12-05 11:40:47.685 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-05 19:40:47.712	INFO:	2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Notifying 0 listeners
+
+2022-12-05 19:40:47.712	INFO:	2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] +load called!
+2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] app launch arguments: (
+    "/var/containers/Bundle/Application/D6D6C160-8579-4112-A9D1-89EBA5071BFF/MyDemoAppUITests-Runner.app/MyDemoAppUITests-Runner"
+)
+2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] app launch environment variables: {
+    "CFFIXED_USER_HOME" = "/private/var/mobile/Containers/Data/Application/4507D7C6-2BBF-407B-9A54-64BFE0D122B7";
+    HOME = "/private/var/mobile/Containers/Data/Application/4507D7C6-2BBF-407B-9A54-64BFE0D122B7";
+    LOGNAME = mobile;
+    PATH = "/usr/bin:/bin:/usr/sbin:/sbin";
+    SHELL = "/bin/sh";
+    TMPDIR = "/private/var/mobile/Containers/Data/Application/4507D7C6-2BBF-407B-9A54-64BFE0D122B7/tmp/";
+    USER = mobile;
+    XCTestConfigurationFilePath = "/private/var/mobile/Containers/Data/Application/4507D7C6-2BBF-407B-9A54-64BFE0D122B7/tmp/e50ebde9-6a9a-415d-a306-b3b50d0179f2.xctestconfiguration";
+    "XPC_FLAGS" = 0x0;
+    "XPC_SERVICE_NAME" = "UIKitApplication:com.saucelabs.mydemoapp.ios.My-Demo-AppUITests.xctrunner[f2db][rb-legacy]";
+    "__CF_USER_TEXT_ENCODING" = "0x1F5:0:0";
+}
+
+2022-12-05 19:40:47.712	INFO:	2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] [NSUserDefaults standardUserDefaults] dump
+
+2022-12-05 19:40:47.712	INFO:	2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: com.apple.content-rating.TVShowRating	Value:1000
+
+2022-12-05 19:40:47.713	INFO:	2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AddingEmojiKeybordHandled	Value:1
+2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: NSInterfaceStyle	Value:macintosh
+2022-12-05 11:40:47.690 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AppleITunesStoreItemKinds	Value:(
+    "itunes-u",
+    movie,
+    album,
+    ringtone,
+    "software-update",
+    booklet,
+    tone,
+    "music-video",
+    "tv-episode",
+    "tv-season",
+    song,
+    podcast,
+    software,
+    audiobook,
+    "podcast-episode",
+    wemix,
+    eBook,
+    mix,
+    artist,
+    document
+)
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AKLastIDMSEnvironment	Value:0
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AppleICUForce24HourTime	Value:1
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: com.apple.content-rating.ExplicitBooksAllowed	Value:1
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: com.apple.content-rating.MovieRating	Value:1000
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AppleLanguagesDidMigrate	Value:18G82
+
+2022-12-05 19:40:47.713	INFO:	2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: com.apple.content-rating.AppRating	Value:1000
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AppleLanguages	Value:(
+    en,
+    "en-GB",
+    "en-DE"
+)
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AppleLanguagesSchemaVersion	Value:2000
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: PKLogNotificationServiceResponsesKey	Value:0
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: com.apple.content-rating.ExplicitMusicPodcastsAllowed	Value:1
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: NSLanguages	Value:(
+    en,
+    "en-GB",
+    "en-DE"
+)
+
+2022-12-05 19:40:47.713	INFO:	2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: PKKeychainVersionKey	Value:8
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: AppleLocale	Value:en_US
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Key: ApplePasscodeKeyboards	Value:(
+    "en_US@sw=QWERTY;hw=Automatic",
+    "en_GB@sw=QWERTY;hw=Automatic",
+    "emoji@sw=Emoji"
+)
+2022-12-05 11:40:47.691 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value NO for key disableKeychainCleaning
+
+2022-12-05 19:40:47.713	INFO:	2022-12-05 11:40:47.704 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Successfully reset the keychain for this app.
+
+2022-12-05 19:40:47.713	INFO:	2022-12-05 11:40:47.705 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-05 19:40:47.714	INFO:	2022-12-05 11:40:47.707 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-05 19:40:47.731	INFO:	2022-12-05 11:40:47.709 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-05 19:40:47.731	INFO:	2022-12-05 11:40:47.711 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-05 19:40:47.731	INFO:	2022-12-05 11:40:47.714 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-05 19:40:47.731	INFO:	2022-12-05 11:40:47.714 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key _private_fhSRN
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.850 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value NO for key interceptBiometricsAuth
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.850 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value NO for key interceptBiometricsAuth
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.850 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value YES for key _private_interceptBiometricsKeychainAuth
+2022-12-05 11:40:47.850 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key networkCaptureEnabled
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.851 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key testfairyEnabled
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.851 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.852 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-05 19:40:47.871	INFO:	2022-12-05 11:40:47.852 MyDemoAppUITests-Runner[467:53590] [injector.dylib] Replacing method AVCaptureVideoPreviewLayer transformedMetadataObjectForMetadataObject:
+2022-12-05 11:40:47.852 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value YES for key testfairyEnabled
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.857 MyDemoAppUITests-Runner[467:53590] [injector.dylib] No TestFairy configuration found on disk. Assuming defaults.
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.859 MyDemoAppUITests-Runner[467:53590] [TestFairy] Value for metric [anr] is not supported. Will use value from build settings.
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.859 MyDemoAppUITests-Runner[467:53590] [TestFairy] Value for metric [user-interactions] is not supported. Will use value from build settings.
+2022-12-05 11:40:47.859 MyDemoAppUITests-Runner[467:53590] [TestFairy] Value for metric [view-tree] is not supported. Will use value from build settings.
+2022-12-05 11:40:47.859 MyDemoAppUITests-Runner[467:53590] [TestFairy]: Initializing SDK version 1.29.8 (20220429-ce516ca9-1.29.8)
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.859 MyDemoAppUITests-Runner[467:53590] [TestFairy]: Crash handler is disabled by request
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key UIApplication_registerForRemoteNotifications
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key UIApplication_registerUserNotificationSettings
+2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value NO for key disableSecureTextEntry
+2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key CNContactStore_requestAccessForEntityType
+
+2022-12-05 19:40:47.873	INFO:	2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] [injector.dylib] INJSetting: Returning default value (null) for key NSFileManager_containerURLForSecurityApplicationGroupIdentifier
+2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key EKEventStore_requestAccessToEntityType
+2022-12-05 11:40:47.863 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning value NO for key disableSecureTextEntry
+
+2022-12-05 19:40:47.890	INFO:	2022-12-05 11:40:47.870 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key AVCaptureDevice_requestAccessForMediaType
+
+2022-12-05 19:40:47.890	INFO:	2022-12-05 11:40:47.870 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key CLLocationManager_requestWhenInUseAuthorization
+2022-12-05 11:40:47.870 MyDemoAppUITests-Runner[467:53590] [injector.dylib] INJSetting: Returning default value NO for key CLLocationManager_requestAlwaysAuthorization
+
+2022-12-05 19:40:47.911	INFO:	2022-12-05 11:40:47.886 MyDemoAppUITests-Runner[467:53590] Running tests...
+
+2022-12-05 19:40:48.876	INFO:	Test Suite 'Selected tests' started at 2022-12-05 11:40:48.860
+
+2022-12-05 19:40:48.878	INFO:	XCTestOutputBarrierTest Suite 'MyDemoAppUITests.xctest' started at 2022-12-05 11:40:48.860
+XCTestOutputBarrier
+2022-12-05 19:40:48.878	INFO:	Test Suite 'ProductDetailsTest' started at 2022-12-05 11:40:48.860
+XCTestOutputBarrier
+2022-12-05 19:40:48.878	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsColorsSwitch]' started.
+
+2022-12-05 19:40:48.878	INFO:	XCTestOutputBarrier
+2022-12-05 19:40:48.878	INFO:	    t =     0.00s Start Test at 2022-12-05 11:40:48.861
+
+2022-12-05 19:40:49.002	INFO:	    t =     0.06s Set Up
+
+2022-12-05 19:40:49.002	INFO:	    t =     0.06s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-05 19:40:49.002	INFO:	    t =     0.12s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-05 19:40:49.127	INFO:	    t =     0.23s             Wait for accessibility to load
+
+2022-12-05 19:40:49.198	INFO:	    t =     0.32s             Setting up automation session
+
+2022-12-05 19:40:49.401	INFO:	    t =     0.51s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-05 19:40:50.560	INFO:	    t =     1.62s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-05 19:40:50.560	INFO:	    t =     1.62s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-05 19:40:50.652	INFO:	    t =     1.72s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-05 19:40:50.702	INFO:	    t =     1.82s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-05 19:40:50.739	INFO:	    t =     1.86s     Synthesize event
+
+2022-12-05 19:40:50.947	INFO:	    t =     2.03s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-05 19:40:51.523	INFO:	    t =     2.60s Find the "RedColorUnSelected Icons" Button
+
+2022-12-05 19:40:51.523	INFO:	    t =     2.64s Find the "BlueColorUnSelected Icons" Button
+
+2022-12-05 19:40:51.554	INFO:	    t =     2.67s Tap "BlueColorUnSelected Icons" Button
+
+2022-12-05 19:40:51.555	INFO:	    t =     2.67s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-05 19:40:51.676	INFO:	    t =     2.77s     Find the "BlueColorUnSelected Icons" Button
+
+2022-12-05 19:40:51.704	INFO:	    t =     2.82s     Check for interrupting elements affecting "BlueColorUnSelected Icons" Button
+
+2022-12-05 19:40:51.735	INFO:	    t =     2.86s     Synthesize event
+
+2022-12-05 19:40:51.861	INFO:	    t =     2.98s         Scroll element to visible
+
+2022-12-05 19:40:51.862	INFO:	    t =     2.98s         Find the "BlueColorUnSelected Icons" Button
+
+2022-12-05 19:40:51.985	INFO:	    t =     3.08s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-05 19:40:52.087	INFO:	    t =     3.18s Find the "BlueColorUnSelected Icons" Button
+
+2022-12-05 19:40:52.127	INFO:	    t =     3.25s Tear Down
+
+2022-12-05 19:40:52.127	INFO:	    t =     3.25s     Terminate com.saucelabs.mydemoapp.ios:470
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Example 2 - testProductListingPageAddItemToCart and testProductDetailsPrice" tests="2" failures="0" skipped="0" timestamp="2022-12-05T19:38:29.776Z" time="30.238" package="com.saucelabs.mydemoapp.ios">
+    <testcase name="testProductDetailsPrice" classname="MyDemoAppUITests.ProductDetailsTest" time="4.358"/>
+    <testcase name="testProductListingPageAddItemToCart" classname="MyDemoAppUITests.ProductListingPageTest" time="6.597"/>
+</testsuite>

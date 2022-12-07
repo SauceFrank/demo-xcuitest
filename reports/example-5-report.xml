@@ -1,0 +1,18 @@
+<testsuites tests="2">
+  <testsuite name="Example 5 - testProductDetailsColorsSwitch" tests="1" time="60">
+    <properties>
+      <property name="url" value="https://app.saucelabs.com/tests/1b43c07042ba4fc0839284c06936f125"></property>
+      <property name="device" value="iPhone.*"></property>
+      <property name="platform" value=" 14"></property>
+    </properties>
+    <testcase name="testProductDetailsColorsSwitch" time="5.053" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+  </testsuite>
+  <testsuite name="Example 5 - testProductListingPageAddMultipleItemsToCart" tests="1" time="60">
+    <properties>
+      <property name="url" value="https://app.saucelabs.com/tests/bebc55aab2cf41b8ba58a92c9d4ea2d8"></property>
+      <property name="device" value="iPhone.*"></property>
+      <property name="platform" value=" 14"></property>
+    </properties>
+    <testcase name="testProductListingPageAddMultipleItemsToCart" time="10.917" classname="MyDemoAppUITests.ProductListingPageTest"></testcase>
+  </testsuite>
+</testsuites>

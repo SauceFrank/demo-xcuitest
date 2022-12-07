@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Example 1 - Run all tests" tests="20" failures="1" skipped="0" timestamp="2022-12-05T19:49:15.323Z" time="120.858" package="com.saucelabs.mydemoapp.ios">
+    <testcase name="testProductDetailsPrice" classname="MyDemoAppUITests.ProductDetailsTest" time="3.593"/>
+    <testcase name="testNavigateToMore" classname="MyDemoAppUITests.NavigationTest" time="3.879"/>
+    <testcase name="testProductDetails" classname="MyDemoAppUITests.ProductDetailsTest" time="3.566"/>
+    <testcase name="testNavigateMoreToDrawing" classname="MyDemoAppUITests.NavigationTest" time="5.461"/>
+    <testcase name="testProductListingPageAddMultipleItemsToCart" classname="MyDemoAppUITests.ProductListingPageTest" time="10.804"/>
+    <testcase name="testNavigateMoreToQRCode" classname="MyDemoAppUITests.NavigationTest" time="5.502"/>
+    <testcase name="testNavigateMoreToGeoLocation" classname="MyDemoAppUITests.NavigationTest" time="5.513"/>
+    <testcase name="testProductDetailsColorsSwitch" classname="MyDemoAppUITests.ProductDetailsTest" time="4.12"/>
+    <testcase name="testNavigateCartToCatalog" classname="MyDemoAppUITests.NavigationTest" time="5.675"/>
+    <testcase name="testNavigateToCart" classname="MyDemoAppUITests.NavigationTest" time="3.64"/>
+    <testcase name="testProductDetailsRatesSelection" classname="MyDemoAppUITests.ProductDetailsTest" time="4.074"/>
+    <testcase name="testProductDetailsDecreaseNumberOfItems" classname="MyDemoAppUITests.ProductDetailsTest" time="4.14"/>
+    <testcase name="testProductDetailsDefaultColor" classname="MyDemoAppUITests.ProductDetailsTest" time="3.644"/>
+    <testcase name="testProductDetailsAddToCart" classname="MyDemoAppUITests.ProductDetailsTest" time="5.074">
+        <failure>file: /Users/runner/work/my-demo-app-ios/my-demo-app-ios/MyDemoAppUITests/Tests/ProductDetailsTest.swift
+line: 62
+error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testNavigateMoreToAbout" classname="MyDemoAppUITests.NavigationTest" time="5.461"/>
+    <testcase name="testProductListingPageAddItemToCart" classname="MyDemoAppUITests.ProductListingPageTest" time="6.074"/>
+    <testcase name="testNavigateMoreToWebview" classname="MyDemoAppUITests.NavigationTest" time="5.5"/>
+    <testcase name="testProductDetailsHighlights" classname="MyDemoAppUITests.ProductDetailsTest" time="3.737"/>
+    <testcase name="testProductDetailsIncreaseNumberOfItems" classname="MyDemoAppUITests.ProductDetailsTest" time="4.62"/>
+    <testcase name="testNavigateFromCartToCatalog" classname="MyDemoAppUITests.NavigationTest" time="4.648"/>
+</testsuite>

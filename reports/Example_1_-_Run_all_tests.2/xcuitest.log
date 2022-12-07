@@ -1,0 +1,1255 @@
+2022-12-06 13:27:57.053	INFO:	2022-12-06 05:27:57.001 MyDemoAppUITests-Runner[298:10206] [injector.dylib] [injector.dylib] Found TestObject.plist with 7 entries.
+
+2022-12-06 13:27:57.053	INFO:	2022-12-06 05:27:57.001 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key networkCaptureEnabled
+2022-12-06 05:27:57.001 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Capturing network logs to network.har.jsonl
+
+2022-12-06 13:27:57.053	INFO:	2022-12-06 05:27:57.005 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-06 13:27:57.053	INFO:	2022-12-06 05:27:57.005 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-06 13:27:57.053	INFO:	2022-12-06 05:27:57.014 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key networkCaptureEnabled
+
+2022-12-06 13:27:57.053	INFO:	2022-12-06 05:27:57.014 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.022 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Notifying 0 listeners
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.022 MyDemoAppUITests-Runner[298:10206] [injector.dylib] +load called!
+2022-12-06 05:27:57.022 MyDemoAppUITests-Runner[298:10206] [injector.dylib] app launch arguments: (
+    "/var/containers/Bundle/Application/C2E793A1-61CF-4551-A861-6756E355D0E2/MyDemoAppUITests-Runner.app/MyDemoAppUITests-Runner"
+)
+2022-12-06 05:27:57.022 MyDemoAppUITests-Runner[298:10206] [injector.dylib] app launch environment variables: {
+    "CFFIXED_USER_HOME" = "/private/var/mobile/Containers/Data/Application/51F09326-2511-45C7-890C-9F0D85FD9A7D";
+    HOME = "/private/var/mobile/Containers/Data/Application/51F09326-2511-45C7-890C-9F0D85FD9A7D";
+    LOGNAME = mobile;
+    PATH = "/usr/bin:/bin:/usr/sbin:/sbin";
+    SHELL = "/bin/sh";
+    TMPDIR = "/private/var/mobile/Containers/Data/Application/51F09326-2511-45C7-890C-9F0D85FD9A7D/tmp/";
+    USER = mobile;
+    XCTestConfigurationFilePath = "/private/var/mobile/Containers/Data/Application/51F09326-2511-45C7-890C-9F0D85FD9A7D/tmp/f64fd492-5a55-4a9d-95cf-c4a897124861.xctestconfiguration";
+    "XPC_FLAGS" = 0x0;
+    "XPC_SERVICE_NAME" = "UIKitApplication:com.saucelabs.mydemoapp.ios.My-Demo-AppUITests.xctrunner[bf82][rb-legacy]";
+    "__CF_USER_TEXT_ENCODING" = "0x1F5:0:0";
+}
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.022 MyDemoAppUITests-Runner[298:10206] [injector.dylib] [NSUserDefaults standardUserDefaults] dump
+2022-12-06 05:27:57.022 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: ApplePasscodeKeyboards	Value:(
+    "en_US@sw=QWERTY;hw=Automatic",
+    "ja_JP-Kana@sw=Kana;hw=Automatic",
+    "ja_JP-Romaji@sw=QWERTY-Japanese;hw=Automatic",
+    "emoji@sw=Emoji",
+    "en_JP@sw=QWERTY;hw=Automatic",
+    "en_GB@sw=QWERTY;hw=Automatic"
+)
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AKLastEmailListRequestDateKey	Value:2022-02-06 09:22:33 +0000
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AddingEmojiKeybordHandled	Value:1
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AKLastIDMSEnvironment	Value:0
+2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AppleITunesStoreItemKinds	Value:(
+    "itunes-u",
+    movie,
+    album,
+    ringtone,
+    "software-update",
+    booklet,
+    tone,
+    "music-video",
+    "tv-episode",
+    "tv-season",
+    song,
+    podcast,
+    software,
+    audiobook,
+    "podcast-episode",
+    wemix,
+    eBook,
+    mix,
+    artist,
+    document
+)
+2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AppleICUForce24HourTime	Value:1
+2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: com.apple.content-rating.ExplicitBooksAllowed	Value:1
+2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: com.apple.content-rating.MovieRating	Value:1000
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AppleLanguagesDidMigrate	Value:18G82
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.025 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: com.apple.content-rating.AppRating	Value:1000
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AppleLanguages	Value:(
+    en,
+    "ja-US",
+    "en-GB",
+    "en-US"
+)
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AppleLanguagesSchemaVersion	Value:2000
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: PKLogNotificationServiceResponsesKey	Value:0
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: com.apple.content-rating.ExplicitMusicPodcastsAllowed	Value:1
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: NSLanguages	Value:(
+    en,
+    "ja-US",
+    "en-GB",
+    "en-US"
+)
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: NSInterfaceStyle	Value:macintosh
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: PKKeychainVersionKey	Value:8
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: AppleLocale	Value:en_US
+2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Key: com.apple.content-rating.TVShowRating	Value:1000
+
+2022-12-06 13:27:57.077	INFO:	2022-12-06 05:27:57.026 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value NO for key disableKeychainCleaning
+
+2022-12-06 13:27:57.101	INFO:	2022-12-06 05:27:57.043 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Successfully reset the keychain for this app.
+
+2022-12-06 13:27:57.101	INFO:	2022-12-06 05:27:57.045 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-06 13:27:57.101	INFO:	2022-12-06 05:27:57.048 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-06 13:27:57.101	INFO:	2022-12-06 05:27:57.050 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-06 13:27:57.101	INFO:	2022-12-06 05:27:57.053 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-06 13:27:57.102	INFO:	2022-12-06 05:27:57.056 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Could not query Error Domain=NSOSStatusErrorDomain Code=-25300 "(null)"
+
+2022-12-06 13:27:57.102	INFO:	2022-12-06 05:27:57.056 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key _private_fhSRN
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.185 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value NO for key interceptBiometricsAuth
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.185 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value NO for key interceptBiometricsAuth
+2022-12-06 05:27:57.185 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value YES for key _private_interceptBiometricsKeychainAuth
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.185 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key networkCaptureEnabled
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.185 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key testfairyEnabled
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.186 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.186 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key imageInjectionEnabled
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.187 MyDemoAppUITests-Runner[298:10206] [injector.dylib] Replacing method AVCaptureVideoPreviewLayer transformedMetadataObjectForMetadataObject:
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.187 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value YES for key testfairyEnabled
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.195 MyDemoAppUITests-Runner[298:10206] [injector.dylib] No TestFairy configuration found on disk. Assuming defaults.
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.196 MyDemoAppUITests-Runner[298:10206] [TestFairy] Value for metric [anr] is not supported. Will use value from build settings.
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.196 MyDemoAppUITests-Runner[298:10206] [TestFairy] Value for metric [user-interactions] is not supported. Will use value from build settings.
+2022-12-06 05:27:57.196 MyDemoAppUITests-Runner[298:10206] [TestFairy] Value for metric [view-tree] is not supported. Will use value from build settings.
+2022-12-06 05:27:57.196 MyDemoAppUITests-Runner[298:10206] [TestFairy]: Initializing SDK version 1.29.8 (20220429-ce516ca9-1.29.8)
+
+2022-12-06 13:27:57.237	INFO:	2022-12-06 05:27:57.196 MyDemoAppUITests-Runner[298:10206] [TestFairy]: Crash handler is disabled by request
+
+2022-12-06 13:27:57.257	INFO:	2022-12-06 05:27:57.202 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key UIApplication_registerForRemoteNotifications
+
+2022-12-06 13:27:57.257	INFO:	2022-12-06 05:27:57.202 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key UIApplication_registerUserNotificationSettings
+2022-12-06 05:27:57.202 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value NO for key disableSecureTextEntry
+
+2022-12-06 13:27:57.257	INFO:	2022-12-06 05:27:57.203 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key CNContactStore_requestAccessForEntityType
+
+2022-12-06 13:27:57.257	INFO:	2022-12-06 05:27:57.203 MyDemoAppUITests-Runner[298:10206] [injector.dylib] [injector.dylib] INJSetting: Returning default value (null) for key NSFileManager_containerURLForSecurityApplicationGroupIdentifier
+2022-12-06 05:27:57.203 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key EKEventStore_requestAccessToEntityType
+2022-12-06 05:27:57.203 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning value NO for key disableSecureTextEntry
+
+2022-12-06 13:27:57.257	INFO:	2022-12-06 05:27:57.211 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key AVCaptureDevice_requestAccessForMediaType
+
+2022-12-06 13:27:57.257	INFO:	2022-12-06 05:27:57.211 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key CLLocationManager_requestWhenInUseAuthorization
+2022-12-06 05:27:57.211 MyDemoAppUITests-Runner[298:10206] [injector.dylib] INJSetting: Returning default value NO for key CLLocationManager_requestAlwaysAuthorization
+
+2022-12-06 13:27:57.280	INFO:	2022-12-06 05:27:57.234 MyDemoAppUITests-Runner[298:10206] Running tests...
+
+2022-12-06 13:27:58.812	INFO:	Test Suite 'All tests' started at 2022-12-06 05:27:58.747
+XCTestOutputBarrier
+2022-12-06 13:27:58.812	INFO:	Test Suite 'MyDemoAppUITests.xctest' started at 2022-12-06 05:27:58.747
+XCTestOutputBarrierTest Suite 'NavigationTest' started at 2022-12-06 05:27:58.747
+XCTestOutputBarrierTest Case '-[MyDemoAppUITests.NavigationTest testNavigateCartToCatalog]' started.
+XCTestOutputBarrier
+2022-12-06 13:27:58.816	INFO:	    t =     0.00s Start Test at 2022-12-06 05:27:58.748
+
+2022-12-06 13:27:58.913	INFO:	    t =     0.11s Set Up
+
+2022-12-06 13:27:58.913	INFO:	    t =     0.12s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:27:58.967	INFO:	    t =     0.17s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:27:59.245	INFO:	    t =     0.46s             Wait for accessibility to load
+
+2022-12-06 13:27:59.267	INFO:	    t =     0.48s             Setting up automation session
+
+2022-12-06 13:27:59.623	INFO:	    t =     0.83s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:00.812	INFO:	    t =     2.01s Tap "Cart-tab-item" Button
+
+2022-12-06 13:28:00.812	INFO:	    t =     2.01s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:00.915	INFO:	    t =     2.10s     Find the "Cart-tab-item" Button
+
+2022-12-06 13:28:00.987	INFO:	    t =     2.20s     Check for interrupting elements affecting "Cart-tab-item" Button
+
+2022-12-06 13:28:01.044	INFO:	    t =     2.25s     Synthesize event
+
+2022-12-06 13:28:01.245	INFO:	    t =     2.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:01.781	INFO:	    t =     2.96s Tap "GoShopping" Button
+
+2022-12-06 13:28:01.782	INFO:	    t =     2.96s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:01.856	INFO:	    t =     3.05s     Find the "GoShopping" Button
+
+2022-12-06 13:28:01.901	INFO:	    t =     3.11s     Check for interrupting elements affecting "GoShopping" Button
+
+2022-12-06 13:28:01.941	INFO:	    t =     3.15s     Synthesize event
+
+2022-12-06 13:28:02.101	INFO:	    t =     3.31s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:02.684	INFO:	    t =     3.90s Waiting 2.0s for "Catalog-screen" Other to exist
+
+2022-12-06 13:28:03.737	INFO:	    t =     4.94s     Checking `Expect predicate `exists == 1` for object "Catalog-screen" Other`
+
+2022-12-06 13:28:03.737	INFO:	    t =     4.94s         Checking existence of `"Catalog-screen" Other`
+
+2022-12-06 13:28:03.853	INFO:	    t =     5.05s Tear Down
+
+2022-12-06 13:28:03.854	INFO:	    t =     5.05s     Terminate com.saucelabs.mydemoapp.ios:302
+
+2022-12-06 13:28:05.048	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateCartToCatalog]' passed (6.233 seconds).
+
+2022-12-06 13:28:05.049	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:05.049	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateFromCartToCatalog]' started.
+
+2022-12-06 13:28:05.049	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:05.049	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:04.983
+
+2022-12-06 13:28:05.151	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:28:05.156	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:05.180	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:05.244	INFO:	    t =     0.22s             Wait for accessibility to load
+
+2022-12-06 13:28:05.281	INFO:	    t =     0.23s             Setting up automation session
+
+2022-12-06 13:28:05.361	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:06.494	INFO:	    t =     1.44s Tap "Cart-tab-item" Button
+
+2022-12-06 13:28:06.495	INFO:	    t =     1.45s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:06.570	INFO:	    t =     1.52s     Find the "Cart-tab-item" Button
+
+2022-12-06 13:28:06.646	INFO:	    t =     1.62s     Check for interrupting elements affecting "Cart-tab-item" Button
+
+2022-12-06 13:28:06.693	INFO:	    t =     1.67s     Synthesize event
+
+2022-12-06 13:28:06.902	INFO:	    t =     1.85s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:07.454	INFO:	    t =     2.41s Waiting 2.0s for "Cart-screen" Other to exist
+
+2022-12-06 13:28:08.436	INFO:	    t =     3.42s     Checking `Expect predicate `exists == 1` for object "Cart-screen" Other`
+
+2022-12-06 13:28:08.456	INFO:	    t =     3.42s         Checking existence of `"Cart-screen" Other`
+
+2022-12-06 13:28:08.488	INFO:	    t =     3.47s Tear Down
+
+2022-12-06 13:28:08.488	INFO:	    t =     3.47s     Terminate com.saucelabs.mydemoapp.ios:306
+
+2022-12-06 13:28:09.590	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateFromCartToCatalog]' passed (4.569 seconds).
+
+2022-12-06 13:28:09.590	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:09.592	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToAbout]' started.
+XCTestOutputBarrier
+2022-12-06 13:28:09.592	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:09.552
+
+2022-12-06 13:28:09.703	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:09.704	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:09.737	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:09.850	INFO:	    t =     0.26s             Wait for accessibility to load
+
+2022-12-06 13:28:09.960	INFO:	    t =     0.36s             Setting up automation session
+
+2022-12-06 13:28:09.973	INFO:	    t =     0.38s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:11.139	INFO:	    t =     1.48s Tap "More-tab-item" Button
+
+2022-12-06 13:28:11.139	INFO:	    t =     1.48s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:11.196	INFO:	    t =     1.57s     Find the "More-tab-item" Button
+
+2022-12-06 13:28:11.263	INFO:	    t =     1.67s     Check for interrupting elements affecting "More-tab-item" Button
+
+2022-12-06 13:28:11.308	INFO:	    t =     1.71s     Synthesize event
+
+2022-12-06 13:28:11.504	INFO:	    t =     1.88s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:12.036	INFO:	    t =     2.42s Tap "About-menu-item" Button
+
+2022-12-06 13:28:12.036	INFO:	    t =     2.42s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:12.115	INFO:	    t =     2.51s     Find the "About-menu-item" Button
+
+2022-12-06 13:28:12.173	INFO:	    t =     2.57s     Check for interrupting elements affecting "About-menu-item" Button
+
+2022-12-06 13:28:12.220	INFO:	    t =     2.62s     Synthesize event
+
+2022-12-06 13:28:12.388	INFO:	    t =     2.79s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:12.928	INFO:	    t =     3.33s Waiting 2.0s for "About-screen" Other to exist
+
+2022-12-06 13:28:13.925	INFO:	    t =     4.34s     Checking `Expect predicate `exists == 1` for object "About-screen" Other`
+
+2022-12-06 13:28:13.926	INFO:	    t =     4.34s         Checking existence of `"About-screen" Other`
+
+2022-12-06 13:28:13.987	INFO:	    t =     4.40s Tear Down
+
+2022-12-06 13:28:13.989	INFO:	    t =     4.40s     Terminate com.saucelabs.mydemoapp.ios:307
+
+2022-12-06 13:28:15.088	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToAbout]' passed (5.494 seconds).
+
+2022-12-06 13:28:15.088	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:15.089	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToDrawing]' started.
+
+2022-12-06 13:28:15.089	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:15.089	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:15.048
+
+2022-12-06 13:28:15.198	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:15.198	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:15.226	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:15.352	INFO:	    t =     0.24s             Wait for accessibility to load
+    t =     0.24s             Setting up automation session
+
+2022-12-06 13:28:15.452	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:16.559	INFO:	    t =     1.43s Tap "More-tab-item" Button
+
+2022-12-06 13:28:16.560	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:16.634	INFO:	    t =     1.52s     Find the "More-tab-item" Button
+
+2022-12-06 13:28:16.698	INFO:	    t =     1.61s     Check for interrupting elements affecting "More-tab-item" Button
+
+2022-12-06 13:28:16.733	INFO:	    t =     1.65s     Synthesize event
+
+2022-12-06 13:28:16.934	INFO:	    t =     1.82s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:17.513	INFO:	    t =     2.40s Tap "Drawing-menu-item" Button
+
+2022-12-06 13:28:17.513	INFO:	    t =     2.41s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:17.586	INFO:	    t =     2.49s     Find the "Drawing-menu-item" Button
+
+2022-12-06 13:28:17.645	INFO:	    t =     2.55s     Check for interrupting elements affecting "Drawing-menu-item" Button
+
+2022-12-06 13:28:17.672	INFO:	    t =     2.59s     Synthesize event
+
+2022-12-06 13:28:17.828	INFO:	    t =     2.74s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:18.357	INFO:	    t =     3.27s Waiting 2.0s for "Drawing-screen" Other to exist
+
+2022-12-06 13:28:19.369	INFO:	    t =     4.29s     Checking `Expect predicate `exists == 1` for object "Drawing-screen" Other`
+
+2022-12-06 13:28:19.371	INFO:	    t =     4.29s         Checking existence of `"Drawing-screen" Other`
+
+2022-12-06 13:28:19.430	INFO:	    t =     4.35s Tear Down
+
+2022-12-06 13:28:19.432	INFO:	    t =     4.35s     Terminate com.saucelabs.mydemoapp.ios:308
+
+2022-12-06 13:28:20.548	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToDrawing]' passed (5.449 seconds).
+
+2022-12-06 13:28:20.548	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:20.548	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToGeoLocation]' started.
+
+2022-12-06 13:28:20.548	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:20.548	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:20.499
+
+2022-12-06 13:28:20.658	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:20.660	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:20.696	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:20.804	INFO:	    t =     0.26s             Wait for accessibility to load
+
+2022-12-06 13:28:20.824	INFO:	    t =     0.28s             Setting up automation session
+
+2022-12-06 13:28:20.877	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:22.013	INFO:	    t =     1.43s Tap "More-tab-item" Button
+
+2022-12-06 13:28:22.013	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:22.124	INFO:	    t =     1.52s     Find the "More-tab-item" Button
+
+2022-12-06 13:28:22.166	INFO:	    t =     1.61s     Check for interrupting elements affecting "More-tab-item" Button
+
+2022-12-06 13:28:22.201	INFO:	    t =     1.65s     Synthesize event
+
+2022-12-06 13:28:22.399	INFO:	    t =     1.83s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:22.979	INFO:	    t =     2.42s Tap "GeoLocation-menu-item" Button
+
+2022-12-06 13:28:22.981	INFO:	    t =     2.42s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:23.060	INFO:	    t =     2.52s     Find the "GeoLocation-menu-item" Button
+
+2022-12-06 13:28:23.113	INFO:	    t =     2.58s     Check for interrupting elements affecting "GeoLocation-menu-item" Button
+
+2022-12-06 13:28:23.147	INFO:	    t =     2.62s     Synthesize event
+
+2022-12-06 13:28:23.319	INFO:	    t =     2.77s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:23.902	INFO:	    t =     3.34s Waiting 2.0s for "GeoLocation-screen" Other to exist
+
+2022-12-06 13:28:24.886	INFO:	    t =     4.36s     Checking `Expect predicate `exists == 1` for object "GeoLocation-screen" Other`
+
+2022-12-06 13:28:24.889	INFO:	    t =     4.36s         Checking existence of `"GeoLocation-screen" Other`
+
+2022-12-06 13:28:24.948	INFO:	    t =     4.42s Tear Down
+
+2022-12-06 13:28:24.949	INFO:	    t =     4.42s     Terminate com.saucelabs.mydemoapp.ios:309
+
+2022-12-06 13:28:26.136	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToGeoLocation]' passed (5.593 seconds).
+XCTestOutputBarrier
+2022-12-06 13:28:26.136	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToQRCode]' started.
+
+2022-12-06 13:28:26.136	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:26.136	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:26.092
+
+2022-12-06 13:28:26.234	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:26.234	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:26.279	INFO:	    t =     0.14s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:26.372	INFO:	    t =     0.23s             Wait for accessibility to load
+
+2022-12-06 13:28:26.405	INFO:	    t =     0.25s             Setting up automation session
+
+2022-12-06 13:28:26.465	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:27.618	INFO:	    t =     1.43s Tap "More-tab-item" Button
+
+2022-12-06 13:28:27.618	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:27.680	INFO:	    t =     1.52s     Find the "More-tab-item" Button
+
+2022-12-06 13:28:27.758	INFO:	    t =     1.62s     Check for interrupting elements affecting "More-tab-item" Button
+
+2022-12-06 13:28:27.797	INFO:	    t =     1.66s     Synthesize event
+
+2022-12-06 13:28:27.990	INFO:	    t =     1.83s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:28.585	INFO:	    t =     2.41s Tap "QrCodeScanner-menu-item" Button
+
+2022-12-06 13:28:28.585	INFO:	    t =     2.41s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:28.644	INFO:	    t =     2.50s     Find the "QrCodeScanner-menu-item" Button
+
+2022-12-06 13:28:28.701	INFO:	    t =     2.56s     Check for interrupting elements affecting "QrCodeScanner-menu-item" Button
+
+2022-12-06 13:28:28.758	INFO:	    t =     2.61s     Synthesize event
+
+2022-12-06 13:28:28.900	INFO:	    t =     2.76s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:29.444	INFO:	    t =     3.31s Waiting 2.0s for "QrCodeScanner-screen" Other to exist
+
+2022-12-06 13:28:30.440	INFO:	    t =     4.32s     Checking `Expect predicate `exists == 1` for object "QrCodeScanner-screen" Other`
+
+2022-12-06 13:28:30.442	INFO:	    t =     4.32s         Checking existence of `"QrCodeScanner-screen" Other`
+
+2022-12-06 13:28:30.499	INFO:	    t =     4.37s Tear Down
+
+2022-12-06 13:28:30.501	INFO:	    t =     4.38s     Terminate com.saucelabs.mydemoapp.ios:312
+
+2022-12-06 13:28:31.620	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToQRCode]' passed (5.472 seconds).
+
+2022-12-06 13:28:31.622	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:31.622	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToWebview]' started.
+
+2022-12-06 13:28:31.622	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:31.622	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:31.567
+
+2022-12-06 13:28:31.738	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:31.738	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:31.780	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:31.883	INFO:	    t =     0.27s             Wait for accessibility to load
+
+2022-12-06 13:28:31.887	INFO:	    t =     0.28s             Setting up automation session
+
+2022-12-06 13:28:31.956	INFO:	    t =     0.34s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:33.080	INFO:	    t =     1.43s Tap "More-tab-item" Button
+
+2022-12-06 13:28:33.080	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:33.171	INFO:	    t =     1.53s     Find the "More-tab-item" Button
+
+2022-12-06 13:28:33.238	INFO:	    t =     1.62s     Check for interrupting elements affecting "More-tab-item" Button
+
+2022-12-06 13:28:33.273	INFO:	    t =     1.66s     Synthesize event
+
+2022-12-06 13:28:33.471	INFO:	    t =     1.84s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:34.047	INFO:	    t =     2.41s Tap "Webview-menu-item" Button
+
+2022-12-06 13:28:34.047	INFO:	    t =     2.41s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:34.113	INFO:	    t =     2.50s     Find the "Webview-menu-item" Button
+
+2022-12-06 13:28:34.160	INFO:	    t =     2.56s     Check for interrupting elements affecting "Webview-menu-item" Button
+
+2022-12-06 13:28:34.192	INFO:	    t =     2.59s     Synthesize event
+
+2022-12-06 13:28:34.360	INFO:	    t =     2.74s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:34.896	INFO:	    t =     3.28s Waiting 2.0s for "Webview-screen" Other to exist
+
+2022-12-06 13:28:35.884	INFO:	    t =     4.29s     Checking `Expect predicate `exists == 1` for object "Webview-screen" Other`
+
+2022-12-06 13:28:35.885	INFO:	    t =     4.29s         Checking existence of `"Webview-screen" Other`
+
+2022-12-06 13:28:35.962	INFO:	    t =     4.35s Tear Down
+
+2022-12-06 13:28:35.963	INFO:	    t =     4.35s     Terminate com.saucelabs.mydemoapp.ios:313
+
+2022-12-06 13:28:37.063	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateMoreToWebview]' passed (5.451 seconds).
+
+2022-12-06 13:28:37.064	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:37.064	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateToCart]' started.
+
+2022-12-06 13:28:37.064	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:37.064	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:37.020
+
+2022-12-06 13:28:37.196	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:28:37.196	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:37.224	INFO:	    t =     0.16s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:37.336	INFO:	    t =     0.27s             Wait for accessibility to load
+
+2022-12-06 13:28:37.336	INFO:	    t =     0.27s             Setting up automation session
+
+2022-12-06 13:28:37.403	INFO:	    t =     0.34s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:38.528	INFO:	    t =     1.43s Tap "Cart-tab-item" Button
+
+2022-12-06 13:28:38.528	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:38.608	INFO:	    t =     1.52s     Find the "Cart-tab-item" Button
+
+2022-12-06 13:28:38.689	INFO:	    t =     1.61s     Check for interrupting elements affecting "Cart-tab-item" Button
+
+2022-12-06 13:28:38.715	INFO:	    t =     1.65s     Synthesize event
+
+2022-12-06 13:28:38.916	INFO:	    t =     1.83s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:39.501	INFO:	    t =     2.42s Checking existence of `"No Items" StaticText`
+
+2022-12-06 13:28:39.501	INFO:	    t =     2.44s Tear Down
+
+2022-12-06 13:28:39.501	INFO:	    t =     2.44s     Terminate com.saucelabs.mydemoapp.ios:314
+
+2022-12-06 13:28:40.619	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateToCart]' passed (3.561 seconds).
+XCTestOutputBarrier
+2022-12-06 13:28:40.620	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateToMore]' started.
+
+2022-12-06 13:28:40.620	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:40.620	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:40.581
+
+2022-12-06 13:28:40.734	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:28:40.735	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:40.781	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:40.895	INFO:	    t =     0.27s             Wait for accessibility to load
+    t =     0.27s             Setting up automation session
+
+2022-12-06 13:28:40.954	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:42.088	INFO:	    t =     1.43s Tap "More-tab-item" Button
+
+2022-12-06 13:28:42.088	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:42.167	INFO:	    t =     1.51s     Find the "More-tab-item" Button
+
+2022-12-06 13:28:42.233	INFO:	    t =     1.61s     Check for interrupting elements affecting "More-tab-item" Button
+
+2022-12-06 13:28:42.272	INFO:	    t =     1.65s     Synthesize event
+
+2022-12-06 13:28:42.454	INFO:	    t =     1.81s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:42.988	INFO:	    t =     2.35s Checking existence of `"Webview-menu-item" Button`
+
+2022-12-06 13:28:43.043	INFO:	    t =     2.43s Checking existence of `"QrCodeScanner-menu-item" Button`
+
+2022-12-06 13:28:43.080	INFO:	    t =     2.46s Checking existence of `"GeoLocation-menu-item" Button`
+
+2022-12-06 13:28:43.108	INFO:	    t =     2.49s Checking existence of `"Drawing-menu-item" Button`
+
+2022-12-06 13:28:43.152	INFO:	    t =     2.52s Checking existence of `"About-menu-item" Button`
+
+2022-12-06 13:28:43.172	INFO:	    t =     2.55s Checking existence of `"ResetAppState-menu-item" Button`
+
+2022-12-06 13:28:43.201	INFO:	    t =     2.58s Checking existence of `"Biometrics-menu-item" Button`
+
+2022-12-06 13:28:43.217	INFO:	    t =     2.60s Tear Down
+
+2022-12-06 13:28:43.219	INFO:	    t =     2.60s     Terminate com.saucelabs.mydemoapp.ios:315
+
+2022-12-06 13:28:44.321	INFO:	Test Case '-[MyDemoAppUITests.NavigationTest testNavigateToMore]' passed (3.697 seconds).
+
+2022-12-06 13:28:44.321	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:44.321	INFO:	Test Suite 'NavigationTest' passed at 2022-12-06 05:28:44.278.
+	 Executed 9 tests, with 0 failures (0 unexpected) in 45.520 (45.531) seconds
+
+2022-12-06 13:28:44.321	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:44.321	INFO:	Test Suite 'ProductDetailsTest' started at 2022-12-06 05:28:44.280
+XCTestOutputBarrier
+2022-12-06 13:28:44.321	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsAddToCart]' started.
+XCTestOutputBarrier
+2022-12-06 13:28:44.321	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:44.281
+
+2022-12-06 13:28:44.427	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:44.428	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:44.459	INFO:	    t =     0.14s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:44.559	INFO:	    t =     0.23s             Wait for accessibility to load
+
+2022-12-06 13:28:44.661	INFO:	    t =     0.34s             Setting up automation session
+
+2022-12-06 13:28:44.683	INFO:	    t =     0.35s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:45.808	INFO:	    t =     1.45s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:45.809	INFO:	    t =     1.45s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:45.897	INFO:	    t =     1.54s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:45.966	INFO:	    t =     1.64s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:46.002	INFO:	    t =     1.68s     Synthesize event
+
+2022-12-06 13:28:46.198	INFO:	    t =     1.85s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:46.765	INFO:	    t =     2.41s Tap "Add To Cart" Button
+
+2022-12-06 13:28:46.765	INFO:	    t =     2.41s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:46.826	INFO:	    t =     2.49s     Find the "Add To Cart" Button
+
+2022-12-06 13:28:46.883	INFO:	    t =     2.55s     Check for interrupting elements affecting "AddToCart" Button
+
+2022-12-06 13:28:46.920	INFO:	    t =     2.59s     Synthesize event
+
+2022-12-06 13:28:47.105	INFO:	    t =     2.75s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:47.168	INFO:	    t =     2.83s Tap "Cart-tab-item" Button
+
+2022-12-06 13:28:47.168	INFO:	    t =     2.83s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:47.239	INFO:	    t =     2.90s     Find the "Cart-tab-item" Button
+
+2022-12-06 13:28:47.308	INFO:	    t =     2.97s     Check for interrupting elements affecting "Cart-tab-item" Button
+
+2022-12-06 13:28:47.324	INFO:	    t =     3.01s     Synthesize event
+
+2022-12-06 13:28:47.499	INFO:	    t =     3.17s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:48.057	INFO:	    t =     3.73s Checking existence of `"Sauce Lab Back Packs" StaticText`
+
+2022-12-06 13:28:48.229	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:48.231	INFO:	/Users/runner/work/my-demo-app-ios/my-demo-app-ios/MyDemoAppUITests/Tests/ProductDetailsTest.swift:62: error: -[MyDemoAppUITests.ProductDetailsTest testProductDetailsAddToCart] : XCTAssertTrue failed
+
+2022-12-06 13:28:48.232	INFO:	    t =     3.91s Tear Down
+
+2022-12-06 13:28:48.232	INFO:	    t =     3.91s     Terminate com.saucelabs.mydemoapp.ios:317
+
+2022-12-06 13:28:49.325	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsAddToCart]' failed (4.998 seconds).
+
+2022-12-06 13:28:49.325	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:49.325	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetails]' started.
+XCTestOutputBarrier
+2022-12-06 13:28:49.325	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:49.280
+
+2022-12-06 13:28:49.434	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:49.434	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:49.453	INFO:	    t =     0.14s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:49.574	INFO:	    t =     0.25s             Wait for accessibility to load
+    t =     0.26s             Setting up automation session
+
+2022-12-06 13:28:49.650	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:50.778	INFO:	    t =     1.42s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:50.778	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:50.864	INFO:	    t =     1.51s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:50.926	INFO:	    t =     1.60s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:50.975	INFO:	    t =     1.65s     Synthesize event
+
+2022-12-06 13:28:51.169	INFO:	    t =     1.82s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:51.752	INFO:	    t =     2.41s Checking existence of `"Sauce Lab Back Packs" StaticText`
+
+2022-12-06 13:28:51.770	INFO:	    t =     2.45s Tear Down
+
+2022-12-06 13:28:51.771	INFO:	    t =     2.45s     Terminate com.saucelabs.mydemoapp.ios:318
+
+2022-12-06 13:28:52.926	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetails]' passed (3.601 seconds).
+
+2022-12-06 13:28:52.926	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:52.927	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsColorsSwitch]' started.
+
+2022-12-06 13:28:52.927	INFO:	XCTestOutputBarrier
+2022-12-06 13:28:52.927	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:52.882
+
+2022-12-06 13:28:53.037	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:28:53.037	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:53.064	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:53.163	INFO:	    t =     0.24s             Wait for accessibility to load
+
+2022-12-06 13:28:53.268	INFO:	    t =     0.34s             Setting up automation session
+
+2022-12-06 13:28:53.300	INFO:	    t =     0.38s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:54.425	INFO:	    t =     1.47s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:54.425	INFO:	    t =     1.47s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:54.497	INFO:	    t =     1.55s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:54.573	INFO:	    t =     1.64s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:54.611	INFO:	    t =     1.68s     Synthesize event
+
+2022-12-06 13:28:54.811	INFO:	    t =     1.86s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:55.376	INFO:	    t =     2.42s Find the "RedColorUnSelected Icons" Button
+
+2022-12-06 13:28:55.376	INFO:	    t =     2.45s Find the "BlueColorUnSelected Icons" Button
+
+2022-12-06 13:28:55.416	INFO:	    t =     2.48s Tap "BlueColorUnSelected Icons" Button
+
+2022-12-06 13:28:55.416	INFO:	    t =     2.48s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:55.519	INFO:	    t =     2.58s     Find the "BlueColorUnSelected Icons" Button
+
+2022-12-06 13:28:55.536	INFO:	    t =     2.62s     Check for interrupting elements affecting "BlueColorUnSelected Icons" Button
+
+2022-12-06 13:28:55.572	INFO:	    t =     2.66s     Synthesize event
+
+2022-12-06 13:28:55.733	INFO:	    t =     2.80s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:55.820	INFO:	    t =     2.89s Find the "BlueColorUnSelected Icons" Button
+
+2022-12-06 13:28:55.867	INFO:	    t =     2.95s Tear Down
+
+2022-12-06 13:28:55.869	INFO:	    t =     2.96s     Terminate com.saucelabs.mydemoapp.ios:319
+
+2022-12-06 13:28:57.002	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsColorsSwitch]' passed (4.074 seconds).
+XCTestOutputBarrier
+2022-12-06 13:28:57.002	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsDecreaseNumberOfItems]' started.
+XCTestOutputBarrier
+2022-12-06 13:28:57.002	INFO:	    t =     0.00s Start Test at 2022-12-06 05:28:56.956
+
+2022-12-06 13:28:57.102	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:28:57.102	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:57.131	INFO:	    t =     0.14s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:28:57.249	INFO:	    t =     0.25s             Wait for accessibility to load
+    t =     0.25s             Setting up automation session
+
+2022-12-06 13:28:57.327	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:58.484	INFO:	    t =     1.43s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:58.488	INFO:	    t =     1.44s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:58.552	INFO:	    t =     1.52s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:58.653	INFO:	    t =     1.62s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:28:58.668	INFO:	    t =     1.67s     Synthesize event
+
+2022-12-06 13:28:58.867	INFO:	    t =     1.84s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:59.431	INFO:	    t =     2.40s Tap "SubtractMinus Icons" Button
+
+2022-12-06 13:28:59.432	INFO:	    t =     2.40s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:59.510	INFO:	    t =     2.49s     Find the "SubtractMinus Icons" Button
+
+2022-12-06 13:28:59.556	INFO:	    t =     2.55s     Check for interrupting elements affecting "SubtractMinus Icons" Button
+
+2022-12-06 13:28:59.591	INFO:	    t =     2.59s     Synthesize event
+
+2022-12-06 13:28:59.762	INFO:	    t =     2.75s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:28:59.864	INFO:	    t =     2.84s Checking existence of `"0" StaticText`
+
+2022-12-06 13:28:59.915	INFO:	    t =     2.91s Tear Down
+
+2022-12-06 13:28:59.916	INFO:	    t =     2.91s     Terminate com.saucelabs.mydemoapp.ios:320
+
+2022-12-06 13:29:01.011	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsDecreaseNumberOfItems]' passed (4.001 seconds).
+
+2022-12-06 13:29:01.011	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:01.011	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsDefaultColor]' started.
+XCTestOutputBarrier
+2022-12-06 13:29:01.011	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:00.958
+
+2022-12-06 13:29:01.115	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:29:01.115	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:01.142	INFO:	    t =     0.14s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:01.259	INFO:	    t =     0.23s             Wait for accessibility to load
+
+2022-12-06 13:29:01.335	INFO:	    t =     0.34s             Setting up automation session
+
+2022-12-06 13:29:01.355	INFO:	    t =     0.36s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:02.481	INFO:	    t =     1.45s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:02.481	INFO:	    t =     1.45s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:02.561	INFO:	    t =     1.53s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:02.635	INFO:	    t =     1.63s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:02.672	INFO:	    t =     1.67s     Synthesize event
+
+2022-12-06 13:29:02.875	INFO:	    t =     1.84s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:03.434	INFO:	    t =     2.40s Checking existence of `"RedColorUnSelected Icons" Button`
+
+2022-12-06 13:29:03.434	INFO:	    t =     2.43s Find the "RedColorUnSelected Icons" Button
+
+2022-12-06 13:29:03.463	INFO:	    t =     2.46s Tear Down
+
+2022-12-06 13:29:03.463	INFO:	    t =     2.46s     Terminate com.saucelabs.mydemoapp.ios:321
+
+2022-12-06 13:29:04.598	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsDefaultColor]' passed (3.595 seconds).
+
+2022-12-06 13:29:04.598	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:04.600	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsHighlights]' started.
+XCTestOutputBarrier
+2022-12-06 13:29:04.600	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:04.554
+
+2022-12-06 13:29:04.701	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:29:04.702	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:04.729	INFO:	    t =     0.14s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:04.838	INFO:	    t =     0.24s             Wait for accessibility to load
+
+2022-12-06 13:29:04.952	INFO:	    t =     0.36s             Setting up automation session
+
+2022-12-06 13:29:04.977	INFO:	    t =     0.38s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:06.128	INFO:	    t =     1.46s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:06.180	INFO:	    t =     1.46s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:06.180	INFO:	    t =     1.54s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:06.240	INFO:	    t =     1.63s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:06.280	INFO:	    t =     1.67s     Synthesize event
+
+2022-12-06 13:29:06.480	INFO:	    t =     1.85s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:07.035	INFO:	    t =     2.41s Checking existence of `"Product Highlights" StaticText`
+
+2022-12-06 13:29:07.035	INFO:	    t =     2.44s Tear Down
+
+2022-12-06 13:29:07.035	INFO:	    t =     2.44s     Terminate com.saucelabs.mydemoapp.ios:322
+
+2022-12-06 13:29:08.191	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsHighlights]' passed (3.583 seconds).
+
+2022-12-06 13:29:08.193	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:08.193	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsIncreaseNumberOfItems]' started.
+
+2022-12-06 13:29:08.193	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:08.193	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:08.138
+
+2022-12-06 13:29:08.303	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:29:08.303	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:08.339	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:08.455	INFO:	    t =     0.27s             Wait for accessibility to load
+
+2022-12-06 13:29:08.460	INFO:	    t =     0.27s             Setting up automation session
+
+2022-12-06 13:29:08.525	INFO:	    t =     0.34s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:09.660	INFO:	    t =     1.43s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:09.660	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:09.721	INFO:	    t =     1.52s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:09.802	INFO:	    t =     1.62s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:09.849	INFO:	    t =     1.67s     Synthesize event
+
+2022-12-06 13:29:10.050	INFO:	    t =     1.84s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:10.593	INFO:	    t =     2.42s Checking existence of `"1" StaticText`
+
+2022-12-06 13:29:10.643	INFO:	    t =     2.46s Tap "AddPlus Icons" Button
+
+2022-12-06 13:29:10.643	INFO:	    t =     2.46s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:10.716	INFO:	    t =     2.53s     Find the "AddPlus Icons" Button
+
+2022-12-06 13:29:10.747	INFO:	    t =     2.57s     Check for interrupting elements affecting "AddPlus Icons" Button
+
+2022-12-06 13:29:10.777	INFO:	    t =     2.61s     Synthesize event
+
+2022-12-06 13:29:10.917	INFO:	    t =     2.75s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:11.033	INFO:	    t =     2.83s Tap "AddPlus Icons" Button
+
+2022-12-06 13:29:11.033	INFO:	    t =     2.83s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:11.101	INFO:	    t =     2.90s     Find the "AddPlus Icons" Button
+
+2022-12-06 13:29:11.152	INFO:	    t =     2.97s     Check for interrupting elements affecting "AddPlus Icons" Button
+
+2022-12-06 13:29:11.194	INFO:	    t =     3.01s     Synthesize event
+
+2022-12-06 13:29:11.375	INFO:	    t =     3.18s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:11.460	INFO:	    t =     3.27s Checking existence of `"3" StaticText`
+
+2022-12-06 13:29:11.515	INFO:	    t =     3.34s Tear Down
+
+2022-12-06 13:29:11.516	INFO:	    t =     3.34s     Terminate com.saucelabs.mydemoapp.ios:323
+
+2022-12-06 13:29:12.632	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsIncreaseNumberOfItems]' passed (4.443 seconds).
+
+2022-12-06 13:29:12.632	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:12.632	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsPrice]' started.
+
+2022-12-06 13:29:12.632	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:12.632	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:12.582
+
+2022-12-06 13:29:12.761	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:29:12.761	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:12.769	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:12.888	INFO:	    t =     0.26s             Wait for accessibility to load
+    t =     0.27s             Setting up automation session
+
+2022-12-06 13:29:12.975	INFO:	    t =     0.35s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:14.115	INFO:	    t =     1.45s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:14.115	INFO:	    t =     1.46s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:14.198	INFO:	    t =     1.54s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:14.261	INFO:	    t =     1.64s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:14.307	INFO:	    t =     1.68s     Synthesize event
+
+2022-12-06 13:29:14.500	INFO:	    t =     1.85s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:15.043	INFO:	    t =     2.42s Checking existence of `"$ 29.99" StaticText`
+
+2022-12-06 13:29:15.096	INFO:	    t =     2.46s Tear Down
+
+2022-12-06 13:29:15.096	INFO:	    t =     2.46s     Terminate com.saucelabs.mydemoapp.ios:324
+
+2022-12-06 13:29:16.171	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsPrice]' passed (3.542 seconds).
+
+2022-12-06 13:29:16.171	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:16.171	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsRatesSelection]' started.
+XCTestOutputBarrier
+2022-12-06 13:29:16.171	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:16.125
+
+2022-12-06 13:29:16.280	INFO:	    t =     0.09s Set Up
+
+2022-12-06 13:29:16.281	INFO:	    t =     0.09s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:16.315	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:16.432	INFO:	    t =     0.25s             Wait for accessibility to load
+
+2022-12-06 13:29:16.565	INFO:	    t =     0.37s             Setting up automation session
+
+2022-12-06 13:29:16.565	INFO:	    t =     0.39s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:17.685	INFO:	    t =     1.48s Tap "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:17.685	INFO:	    t =     1.48s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:17.776	INFO:	    t =     1.57s     Find the "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:17.852	INFO:	    t =     1.67s     Check for interrupting elements affecting "Sauce Lab Back Packs" StaticText
+
+2022-12-06 13:29:17.884	INFO:	    t =     1.71s     Synthesize event
+
+2022-12-06 13:29:18.094	INFO:	    t =     1.89s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:18.629	INFO:	    t =     2.44s Checking existence of `"StarSelected Icons" Button`
+
+2022-12-06 13:29:18.654	INFO:	    t =     2.48s Tap Other
+
+2022-12-06 13:29:18.654	INFO:	    t =     2.49s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:18.743	INFO:	    t =     2.56s     Find the Other
+
+2022-12-06 13:29:18.782	INFO:	    t =     2.61s     Check for interrupting elements affecting Other
+
+2022-12-06 13:29:18.814	INFO:	    t =     2.64s     Synthesize event
+
+2022-12-06 13:29:18.975	INFO:	    t =     2.79s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:19.057	INFO:	    t =     2.87s Checking existence of `"StarSelected Icons" Button`
+
+2022-12-06 13:29:19.115	INFO:	    t =     2.94s Tear Down
+
+2022-12-06 13:29:19.115	INFO:	    t =     2.94s     Terminate com.saucelabs.mydemoapp.ios:325
+
+2022-12-06 13:29:20.222	INFO:	Test Case '-[MyDemoAppUITests.ProductDetailsTest testProductDetailsRatesSelection]' passed (4.048 seconds).
+
+2022-12-06 13:29:20.222	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:20.223	INFO:	Test Suite 'ProductDetailsTest' failed at 2022-12-06 05:29:20.173.
+	 Executed 9 tests, with 1 failure (0 unexpected) in 35.885 (35.893) seconds
+
+2022-12-06 13:29:20.223	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:20.223	INFO:	Test Suite 'ProductListingPageTest' started at 2022-12-06 05:29:20.174
+XCTestOutputBarrier
+2022-12-06 13:29:20.223	INFO:	Test Case '-[MyDemoAppUITests.ProductListingPageTest testProductListingPageAddItemToCart]' started.
+XCTestOutputBarrier
+2022-12-06 13:29:20.223	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:20.175
+
+2022-12-06 13:29:20.338	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:29:20.338	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:20.366	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:20.492	INFO:	    t =     0.27s             Wait for accessibility to load
+
+2022-12-06 13:29:20.492	INFO:	    t =     0.27s             Setting up automation session
+
+2022-12-06 13:29:20.552	INFO:	    t =     0.33s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:21.688	INFO:	    t =     1.43s Tap "ProductItem" Other
+
+2022-12-06 13:29:21.688	INFO:	    t =     1.43s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:21.768	INFO:	    t =     1.52s     Find the "ProductItem" Other
+
+2022-12-06 13:29:21.838	INFO:	    t =     1.61s     Check for interrupting elements affecting "ProductItem" Other
+
+2022-12-06 13:29:21.876	INFO:	    t =     1.65s     Synthesize event
+
+2022-12-06 13:29:22.069	INFO:	    t =     1.82s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:22.664	INFO:	    t =     2.41s Tap "Add To Cart" Button
+
+2022-12-06 13:29:22.669	INFO:	    t =     2.41s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:22.762	INFO:	    t =     2.50s     Find the "Add To Cart" Button
+
+2022-12-06 13:29:22.787	INFO:	    t =     2.56s     Check for interrupting elements affecting "AddToCart" Button
+
+2022-12-06 13:29:22.821	INFO:	    t =     2.59s     Synthesize event
+
+2022-12-06 13:29:22.992	INFO:	    t =     2.75s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:23.071	INFO:	    t =     2.83s Tap "Cart-tab-item" Button
+
+2022-12-06 13:29:23.071	INFO:	    t =     2.83s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:23.131	INFO:	    t =     2.90s     Find the "Cart-tab-item" Button
+
+2022-12-06 13:29:23.180	INFO:	    t =     2.97s     Check for interrupting elements affecting "Cart-tab-item" Button
+
+2022-12-06 13:29:23.218	INFO:	    t =     3.01s     Synthesize event
+
+2022-12-06 13:29:23.398	INFO:	    t =     3.15s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:23.961	INFO:	    t =     3.72s Waiting 2.0s for "Cart-screen" Other to exist
+
+2022-12-06 13:29:24.929	INFO:	    t =     4.72s     Checking `Expect predicate `exists == 1` for object "Cart-screen" Other`
+
+2022-12-06 13:29:24.935	INFO:	    t =     4.72s         Checking existence of `"Cart-screen" Other`
+
+2022-12-06 13:29:25.024	INFO:	    t =     4.81s Checking existence of `"1 Items" StaticText`
+
+2022-12-06 13:29:25.060	INFO:	    t =     4.85s Tear Down
+
+2022-12-06 13:29:25.062	INFO:	    t =     4.85s     Terminate com.saucelabs.mydemoapp.ios:326
+
+2022-12-06 13:29:26.178	INFO:	Test Case '-[MyDemoAppUITests.ProductListingPageTest testProductListingPageAddItemToCart]' passed (5.953 seconds).
+
+2022-12-06 13:29:26.178	INFO:	XCTestOutputBarrier
+2022-12-06 13:29:26.178	INFO:	Test Case '-[MyDemoAppUITests.ProductListingPageTest testProductListingPageAddMultipleItemsToCart]' started.
+XCTestOutputBarrier
+2022-12-06 13:29:26.179	INFO:	    t =     0.00s Start Test at 2022-12-06 05:29:26.129
+
+2022-12-06 13:29:26.278	INFO:	    t =     0.08s Set Up
+
+2022-12-06 13:29:26.278	INFO:	    t =     0.08s     Open com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:26.312	INFO:	    t =     0.15s         Launch com.saucelabs.mydemoapp.ios
+
+2022-12-06 13:29:26.427	INFO:	    t =     0.24s             Wait for accessibility to load
+
+2022-12-06 13:29:26.547	INFO:	    t =     0.37s             Setting up automation session
+
+2022-12-06 13:29:26.578	INFO:	    t =     0.39s             Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:27.732	INFO:	    t =     1.50s Tap "ProductItem" Other
+
+2022-12-06 13:29:27.732	INFO:	    t =     1.50s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:27.812	INFO:	    t =     1.59s     Find the "ProductItem" Other
+
+2022-12-06 13:29:27.872	INFO:	    t =     1.69s     Check for interrupting elements affecting "ProductItem" Other
+
+2022-12-06 13:29:27.924	INFO:	    t =     1.74s     Synthesize event
+
+2022-12-06 13:29:28.108	INFO:	    t =     1.91s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:28.652	INFO:	    t =     2.45s Tap "Add To Cart" Button
+
+2022-12-06 13:29:28.652	INFO:	    t =     2.45s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:28.730	INFO:	    t =     2.53s     Find the "Add To Cart" Button
+
+2022-12-06 13:29:28.768	INFO:	    t =     2.60s     Check for interrupting elements affecting "AddToCart" Button
+
+2022-12-06 13:29:28.825	INFO:	    t =     2.64s     Synthesize event
+
+2022-12-06 13:29:29.019	INFO:	    t =     2.81s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:29.103	INFO:	    t =     2.90s Tap "Catalog-tab-item" Button
+
+2022-12-06 13:29:29.104	INFO:	    t =     2.90s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:29.188	INFO:	    t =     2.97s     Find the "Catalog-tab-item" Button
+
+2022-12-06 13:29:29.220	INFO:	    t =     3.04s     Check for interrupting elements affecting "Catalog-tab-item" Button
+
+2022-12-06 13:29:29.259	INFO:	    t =     3.08s     Synthesize event
+
+2022-12-06 13:29:29.459	INFO:	    t =     3.24s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:30.014	INFO:	    t =     3.81s Tap "ProductItem" Other
+
+2022-12-06 13:29:30.014	INFO:	    t =     3.81s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:30.100	INFO:	    t =     3.90s     Find the "ProductItem" Other
+
+2022-12-06 13:29:30.165	INFO:	    t =     4.00s     Check for interrupting elements affecting "ProductItem" Other
+
+2022-12-06 13:29:30.222	INFO:	    t =     4.05s     Synthesize event
+
+2022-12-06 13:29:30.422	INFO:	    t =     4.23s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:30.959	INFO:	    t =     4.77s Tap "Add To Cart" Button
+
+2022-12-06 13:29:30.960	INFO:	    t =     4.77s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:31.038	INFO:	    t =     4.86s     Find the "Add To Cart" Button
+
+2022-12-06 13:29:31.094	INFO:	    t =     4.93s     Check for interrupting elements affecting "AddToCart" Button
+
+2022-12-06 13:29:31.133	INFO:	    t =     4.97s     Synthesize event
+
+2022-12-06 13:29:31.305	INFO:	    t =     5.13s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:31.390	INFO:	    t =     5.21s Tap "Catalog-tab-item" Button
+
+2022-12-06 13:29:31.391	INFO:	    t =     5.21s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:31.480	INFO:	    t =     5.28s     Find the "Catalog-tab-item" Button
+
+2022-12-06 13:29:31.526	INFO:	    t =     5.35s     Check for interrupting elements affecting "Catalog-tab-item" Button
+
+2022-12-06 13:29:31.562	INFO:	    t =     5.39s     Synthesize event
+
+2022-12-06 13:29:31.731	INFO:	    t =     5.54s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:31.814	INFO:	    t =     5.63s Tap "ProductItem" Other
+
+2022-12-06 13:29:31.816	INFO:	    t =     5.63s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:32.292	INFO:	    t =     6.11s     Find the "ProductItem" Other
+
+2022-12-06 13:29:32.376	INFO:	    t =     6.20s     Check for interrupting elements affecting "ProductItem" Other
+
+2022-12-06 13:29:32.408	INFO:	    t =     6.25s     Synthesize event
+
+2022-12-06 13:29:32.601	INFO:	    t =     6.40s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:33.133	INFO:	    t =     6.95s Tap "Add To Cart" Button
+
+2022-12-06 13:29:33.136	INFO:	    t =     6.95s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:33.227	INFO:	    t =     7.04s     Find the "Add To Cart" Button
+
+2022-12-06 13:29:33.284	INFO:	    t =     7.12s     Check for interrupting elements affecting "AddToCart" Button
+
+2022-12-06 13:29:33.322	INFO:	    t =     7.16s     Synthesize event
+
+2022-12-06 13:29:33.503	INFO:	    t =     7.32s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:33.603	INFO:	    t =     7.41s Tap "Cart-tab-item" Button
+
+2022-12-06 13:29:33.603	INFO:	    t =     7.41s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:33.656	INFO:	    t =     7.47s     Find the "Cart-tab-item" Button
+
+2022-12-06 13:29:33.707	INFO:	    t =     7.54s     Check for interrupting elements affecting "Cart-tab-item" Button
+
+2022-12-06 13:29:33.750	INFO:	    t =     7.58s     Synthesize event
+
+2022-12-06 13:29:33.909	INFO:	    t =     7.73s     Wait for com.saucelabs.mydemoapp.ios to idle
+
+2022-12-06 13:29:34.480	INFO:	    t =     8.30s Waiting 2.0s for "Cart-screen" Other to exist
+
+2022-12-06 13:29:35.500	INFO:	    t =     9.34s     Checking `Expect predicate `exists == 1` for object "Cart-screen" Other`
+
+2022-12-06 13:29:35.501	INFO:	    t =     9.34s         Checking existence of `"Cart-screen" Other`
+
+2022-12-06 13:29:35.612	INFO:	    t =     9.44s Checking existence of `"3 Items" StaticText`
+
+2022-12-06 13:29:35.655	INFO:	    t =     9.48s Tear Down
+
+2022-12-06 13:29:35.655	INFO:	    t =     9.48s     Terminate com.saucelabs.mydemoapp.ios:327
+

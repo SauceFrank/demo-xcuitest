@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Example 5 - testProductDetailsColorsSwitch" tests="1" failures="0" skipped="0" timestamp="2022-12-05T19:43:04.339Z" time="20.175" package="com.saucelabs.mydemoapp.ios">
+    <testcase name="testProductDetailsColorsSwitch" classname="MyDemoAppUITests.ProductDetailsTest" time="5.053"/>
+</testsuite>

@@ -1,0 +1,31 @@
+<testsuites tests="20" failures="1">
+  <testsuite name="Example 1 - Run all tests" tests="20" failures="1" time="165">
+    <properties>
+      <property name="url" value="https://app.saucelabs.com/tests/9ba22b37ae454234b43a1f47a31ec622"></property>
+      <property name="device" value="iPhone.*"></property>
+      <property name="platform" value=" 14"></property>
+    </properties>
+    <testcase name="testProductDetailsPrice" time="3.542" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testNavigateToMore" time="3.696" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testProductDetails" time="3.6" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testNavigateMoreToDrawing" time="5.449" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testProductListingPageAddMultipleItemsToCart" time="10.615" classname="MyDemoAppUITests.ProductListingPageTest"></testcase>
+    <testcase name="testNavigateMoreToQRCode" time="5.471" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testNavigateMoreToGeoLocation" time="5.593" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testProductDetailsColorsSwitch" time="4.073" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testNavigateCartToCatalog" time="6.232" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testNavigateToCart" time="3.56" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testProductDetailsRatesSelection" time="4.047" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testProductDetailsDecreaseNumberOfItems" time="4.001" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testProductDetailsDefaultColor" time="3.594" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testProductDetailsAddToCart" time="4.998" classname="MyDemoAppUITests.ProductDetailsTest">
+      <failure>file: /Users/runner/work/my-demo-app-ios/my-demo-app-ios/MyDemoAppUITests/Tests/ProductDetailsTest.swift&#xA;line: 62&#xA;error: XCTAssertTrue failed</failure>
+    </testcase>
+    <testcase name="testNavigateMoreToAbout" time="5.494" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testProductListingPageAddItemToCart" time="5.952" classname="MyDemoAppUITests.ProductListingPageTest"></testcase>
+    <testcase name="testNavigateMoreToWebview" time="5.451" classname="MyDemoAppUITests.NavigationTest"></testcase>
+    <testcase name="testProductDetailsHighlights" time="3.583" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testProductDetailsIncreaseNumberOfItems" time="4.442" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testNavigateFromCartToCatalog" time="4.569" classname="MyDemoAppUITests.NavigationTest"></testcase>
+  </testsuite>
+</testsuites>

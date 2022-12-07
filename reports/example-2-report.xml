@@ -1,0 +1,11 @@
+<testsuites tests="2">
+  <testsuite name="Example 2 - testProductListingPageAddItemToCart and testProductDetailsPrice" tests="2" time="75">
+    <properties>
+      <property name="url" value="https://app.saucelabs.com/tests/e8fb90994c2440c1b51dbd81f2d13aef"></property>
+      <property name="device" value="iPhone.*"></property>
+      <property name="platform" value=" 14"></property>
+    </properties>
+    <testcase name="testProductDetailsPrice" time="4.358" classname="MyDemoAppUITests.ProductDetailsTest"></testcase>
+    <testcase name="testProductListingPageAddItemToCart" time="6.597" classname="MyDemoAppUITests.ProductListingPageTest"></testcase>
+  </testsuite>
+</testsuites>

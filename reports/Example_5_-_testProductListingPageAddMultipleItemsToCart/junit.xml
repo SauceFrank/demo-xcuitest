@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="Example 5 - testProductListingPageAddMultipleItemsToCart" tests="1" failures="0" skipped="0" timestamp="2022-12-05T19:42:51.926Z" time="30.271" package="com.saucelabs.mydemoapp.ios">
+    <testcase name="testProductListingPageAddMultipleItemsToCart" classname="MyDemoAppUITests.ProductListingPageTest" time="10.917"/>
+</testsuite>
